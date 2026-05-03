@@ -3,7 +3,7 @@ main.py — Inicialização do Bot de Controle Financeiro.
 
 Variáveis de ambiente necessárias (.env):
   TELEGRAM_TOKEN    — Token do BotFather
-  TELEGRAM_ADMIN_ID — Seu user_id do Telegram (único obrigatório agora)
+  TELEGRAM_ADMIN_ID — Seu user_id do Telegram
 
 Novos usuários usam /start para solicitar acesso.
 O admin aprova/reprova via /aprovar e /reprovar.
