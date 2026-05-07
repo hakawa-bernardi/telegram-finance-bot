@@ -63,7 +63,11 @@ telegram-finance-bot/
 ├── main.py                  # Inicialização e registro de handlers
 ├── requirements.txt
 ├── .env.example             # Modelo de configuração
-│
+|
+├── assets/
+|   ├── Aprovar.JPG         # Print aprovando usuário
+|   ├── Usuários.JPG        # Print listando usuários
+|
 ├── handlers/
 │   ├── _security.py         # Controle de acesso e sanitização de inputs
 │   ├── start.py             # /start — cadastro e solicitação de acesso
