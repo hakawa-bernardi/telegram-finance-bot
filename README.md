@@ -189,6 +189,13 @@ O SQLite é criado automaticamente em `data/dados_financeiros.db` na primeira ex
 
 ---
 
+## 📸 Screenshots
+
+![Aprovando Usuário](assets/Aprovar.JPG)
+![Listando Ususários](assets/Usuários.JPG)
+
+---
+
 ## 📄 Licença
 
 Este projeto está sob a licença MIT. Veja o arquivo [LICENSE](LICENSE) para mais detalhes.
