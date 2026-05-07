@@ -191,8 +191,8 @@ O SQLite é criado automaticamente em `data/dados_financeiros.db` na primeira ex
 
 ## 📸 Screenshots
 
-<img src="assets/Aprovar.JPG" width="300"/>
-<img src="assets/Usuários.JPG" width="300"/>
+<img src="assets/Aprovar.JPG" width="350"/>
+<img src="assets/Usuários.JPG" width="350"/>
 
 ---
 
